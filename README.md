@@ -63,7 +63,7 @@ The Power BI dashboard provides the following insights:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./HRDashboard.png)
+![Dashboard Screenshot](./HR Dashboard.png)
 
 
 
